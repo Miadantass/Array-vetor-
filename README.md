@@ -1,10 +1,10 @@
-# Atividade - Arrays em C
+# Atividade Arrays em C
 
-## Identificação
+## Identificação da Aluna
 
 **Aluno:** Maria Eduarda Dantas   
 **Curso:** Análise e Desenvolvimento de Sistemas  
-**Linguagem utilizada:** C  
+**Linguagem usada:** C  
 
 ---
 
@@ -18,7 +18,7 @@ Desenvolver um programa em linguagem C para praticar o uso de arrays, estruturas
 
 O programa permite que o usuário digite 20 números inteiros e armazena esses valores em um vetor.
 
-Depois disso, o programa:
+Após isto, o programa:
 
 - Calcula a soma de todos os números;
 - Calcula a média dos números pares;
@@ -28,7 +28,7 @@ Depois disso, o programa:
 - Mostra o maior número;
 - Exibe todos os números armazenados no vetor.
 
-O número zero não é considerado positivo nem negativo.
+O número zero não é considerado positivo nem negativo!
 
 Caso não existam números pares, o programa informa que não é possível calcular a média.
 
@@ -36,9 +36,9 @@ Caso não existam números pares, o programa informa que não é possível calcu
 
 ## Lógica utilizada
 
-Foi criado um vetor com 20 posições para armazenar os números digitados.
+Foi criado um vetor com exatas 20 posições para armazenar os números digitados
 
-O programa utiliza um `for` para ler os 20 valores.
+O programa utiliza um `for` para ler todos os  20 valores.
 
 Durante a leitura, ele:
 
@@ -49,15 +49,13 @@ Durante a leitura, ele:
 - Identifica o maior valor;
 - Identifica o menor valor.
 
-No final, outro `for` é usado para mostrar todos os números armazenados.
+No final, outro `for` foi utilizado para mostrar todos os números armazenados.
 
 ---
 
 ## Exemplo de execução
 
-Foram digitados os números de 1 até 20.
-
-Resultados obtidos:
+Foram digitados os números de 1 até 20 abaixo os resultados obtidos:
 
 - Soma dos elementos: 210
 - Média dos elementos pares: 11.00
